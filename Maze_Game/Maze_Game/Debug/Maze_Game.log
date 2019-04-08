@@ -1,0 +1,24 @@
+﻿  XmlManager.cpp
+  RoomNormal.cpp
+  RoomLocked.cpp
+  Room.cpp
+  pugixml.cpp
+  MazeRandom.cpp
+d:\google drive\university\year 2\c++\assignment\build 2\maze_game\maze_game\mazerandom.cpp(53): warning C4018: '<': signed/unsigned mismatch
+d:\google drive\university\year 2\c++\assignment\build 2\maze_game\maze_game\mazerandom.cpp(59): warning C4018: '<': signed/unsigned mismatch
+  MazeFixed.cpp
+  MazeFile.cpp
+d:\google drive\university\year 2\c++\assignment\build 2\maze_game\maze_game\mazefile.cpp(38): warning C4018: '<': signed/unsigned mismatch
+d:\google drive\university\year 2\c++\assignment\build 2\maze_game\maze_game\mazefile.cpp(44): warning C4018: '<': signed/unsigned mismatch
+d:\google drive\university\year 2\c++\assignment\build 2\maze_game\maze_game\mazefile.cpp(58): warning C4018: '<': signed/unsigned mismatch
+  Maze.cpp
+  Main.cpp
+d:\google drive\university\year 2\c++\assignment\build 2\maze_game\maze_game\main.cpp(14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  InterfaceManager.cpp
+d:\google drive\university\year 2\c++\assignment\build 2\maze_game\maze_game\interfacemanager.cpp(88): warning C4018: '<': signed/unsigned mismatch
+d:\google drive\university\year 2\c++\assignment\build 2\maze_game\maze_game\interfacemanager.cpp(96): warning C4018: '>': signed/unsigned mismatch
+d:\google drive\university\year 2\c++\assignment\build 2\maze_game\maze_game\interfacemanager.cpp(100): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+d:\google drive\university\year 2\c++\assignment\build 2\maze_game\maze_game\interfacemanager.cpp(66): warning C4715: 'InterfaceManager::MainMenu': not all control paths return a value
+  Maze_Game.vcxproj -> D:\Google Drive\University\Year 2\C++\Assignment\Build 2\Maze_Game\Debug\Maze_Game.exe
+  Maze_Game.vcxproj -> D:\Google Drive\University\Year 2\C++\Assignment\Build 2\Maze_Game\Debug\Maze_Game.pdb (Partial PDB)

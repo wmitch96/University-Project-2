@@ -1,0 +1,22 @@
+<Maze>
+	<Room Name="Room 1">
+		<Exit Name="North" locked="false" Question="" Answer="" Target="Room 2"/>
+		<Exit Name="South" locked="true" Question="8+5" Answer="13" Target="Room 3"/>
+		<Exit Name="East" locked="false" Question="" Answer="" Target="Room 4"/>
+		<Exit Name="West" locked="true" Question="2+2" Answer="4" Target="Room 5"/>
+	</Room>
+	<Room Name="Room 2">
+		<Exit Name="South" locked="false" Question="" Answer="" Target="Room 1"/>
+		<Exit Name="West" locked="false" Question="" Answer="" Target="Room 4"/>
+	</Room>
+	<Room Name="Room 3">
+		<Exit Name="North" locked="false" Question="" Answer="" Target="Room 1"/>
+	</Room>
+	<Room Name="Room 4">
+		<Exit Name="West" locked="false" Question="" Answer="" Target="Room 1"/>
+		<Exit Name="South" locked="false" Question="" Answer="" Target="Room 2"/>
+	</Room>
+	<Room Name="Room 5">
+		<Exit Name="East" locked="false" Question="" Answer="" Target="Room 1"/>
+	</Room>
+</Maze>
